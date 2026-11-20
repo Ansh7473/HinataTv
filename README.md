@@ -1,6 +1,6 @@
 # HinataTV
 
-A fast, black-and-white anime discovery site built with **Next.js 15 (App Router)**, **React 19**, **Tailwind CSS v4** and the **AniList GraphQL API**.
+A fast, black-and-white anime streaming DUB and SUB site built with **Next.js 15 (App Router)**, **React 19**, **Tailwind CSS v4** and the **AniList GraphQL API**.
 
 ## Features
 
